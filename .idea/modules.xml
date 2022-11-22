@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyTutoNotes.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyTutoNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyTutoNotes.Lab4.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyTutoNotes.Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab4/EasyTutoNotes.Lab4.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab4/EasyTutoNotes.Lab4.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab4/EasyTutoNotes.Lab4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab4/EasyTutoNotes.Lab4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab4/EasyTutoNotes.Lab4.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab4/EasyTutoNotes.Lab4.unitTest.iml" />
+    </modules>
+  </component>
+</project>
